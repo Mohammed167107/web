@@ -26,7 +26,7 @@ h1{
     float: right;
 }
 
-@media(max-width:1000px){
+@media(max-width:680px){
     .logo{
         width: 100px;
     }
