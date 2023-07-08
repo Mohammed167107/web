@@ -26,7 +26,7 @@ h1{
     float: right;
 }
 
-@media(max-width:1250px){
+@media(max-width:1000px){
     .logo{
         width: 100px;
     }
@@ -40,8 +40,14 @@ h1{
         width:100%;
         margin-bottom: 30px;
     }
+    .card h2{
+        font-size:60px;
+    }
+    .card p{
+        font-size:30px;
+    }
     .card img{
-        min-height:400px;
+        min-height:500px;
         width:100%;
         display: inline;
         margin-bottom: 10px;
