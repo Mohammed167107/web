@@ -26,7 +26,7 @@ h1{
     float: right;
 }
 
-@media(max-width:680px){
+@media(max-width:1250px){
     .logo{
         width: 100px;
     }
@@ -41,6 +41,7 @@ h1{
         margin-bottom: 30px;
     }
     .card img{
+        min-height:400px;
         width:100%;
         display: inline;
         margin-bottom: 10px;
